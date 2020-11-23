@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "v1.2.0", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/iot/ppp_device", 
+  "ver": "v1.1.0", 
+  "name": "PPP_DEVICE"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v0.5.0", 
+  "name": "FAL"
+ }
+]
